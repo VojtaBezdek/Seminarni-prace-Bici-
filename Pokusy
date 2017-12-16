@@ -1,3 +1,5 @@
 1) Přes Raspberry PI zapojení jednoho bubnu v Pythonu - Prodleva půl vteřiny --–> nepoužitelné
 2) Přes Raspberry PI zapojení dvou bubnů v programu Scratch 2.0 - Paralelnost zvuků, nepatrná prodleva ---> nevýhoda drátů : 
-3) Zapojení Piezo přes Arduino
+3) Zapojení Piezo přes Arduino - propojili jsme piezo a arduino, nezaznamenli jsme změnu v napětí ----> konektor byl zřejmě samice pro stereo signál a u pieza sníače byl konektor na monosignál. 
+Pozn. Povedlo se nám napětí zaznamenat spojením drátky bez použití konektorů
+
