@@ -1,5 +1,5 @@
 
-1) Arduino, 6 čidel, digi výstup do MIDI konktoru - nevíme co s výstupem : https://www.youtube.com/watch?v=vi-w_WqJjzQ (pozn. určené pro Guitar Hero vnitřní plošňák)
+1) Arduino, 6 čidel, digi výstup do MIDI konektoru - nevíme co s výstupem : https://www.youtube.com/watch?v=vi-w_WqJjzQ (pozn. určené pro Guitar Hero vnitřní plošňák)
 2) Arduino MIDI přes Mobil/PC - Z MIDI do USB Lightning a v PC/Mobilu přehrává přes aplikaci KORG Gadget : http://www.instructables.com/id/Arduino-Minimal-Drum-Kit/
      Midi Firmware for Arduino Uno (Moco) : http://morecatlab.akiba.coocan.jp/lab/index.php/aruino/midi-firmware-for-arduino-uno-moco/?lang=en
      USB MIDI interface : http://rpc.gehennom.org/2013/03/usb-midi-interface/
