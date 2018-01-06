@@ -14,3 +14,4 @@ void loop() {
  int piezoValue_0 = analogRead(A0);
   Serial.println(piezoValue_0);
 }
+4) Nyní zkoušíme Arduino Bluetooth
