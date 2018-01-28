@@ -1,5 +1,5 @@
 
-1) Arduino, 6 čidel, digi výstup do MIDI konektoru - nevíme co s výstupem : https://www.youtube.com/watch?v=vi-w_WqJjzQ (pozn. určené pro Guitar Hero vnitřní plošňák)
+1) Arduino, 6 čidel, digi výstup do MIDI konektoru - nevíme co s výstupem - ukončení této cesty : https://www.youtube.com/watch?v=vi-w_WqJjzQ (pozn. určené pro Guitar Hero vnitřní plošňák)
 2) Arduino MIDI přes Mobil/PC - Z MIDI do USB Lightning a v PC/Mobilu přehrává přes aplikaci KORG Gadget : http://www.instructables.com/id/Arduino-Minimal-Drum-Kit/
      Midi Firmware for Arduino Uno (Moco) : http://morecatlab.akiba.coocan.jp/lab/index.php/aruino/midi-firmware-for-arduino-uno-moco/?lang=en
      USB MIDI interface : http://rpc.gehennom.org/2013/03/usb-midi-interface/
@@ -8,7 +8,7 @@
      - pro dokončení je zapotřebí hacknout USB port, což vyžaduje znalosti, které se i podle návodu těžce získávají - ukončení této cesty : http://morecatlab.akiba.coocan.jp/lab/index.php/aruino/midi-firmware-for-arduino-uno-moco/
 3) Arduino, Bluetooth, Mobil/PC propojíme přes bluetooth s bicími, je zapotřebí koupit tento obvod : https://arduino-shop.cz/arduino/1312-arduino-android-ios-hm-10-bluetooth-4-0-ble-cc2540-cc2541-seriovy-bezdratovy-modul-1464644818.html
      Také jsme zakoupili PCB vývojovou desku : https://arduino-shop.cz/arduino/1375-univerzalni-plosny-spoj-70mm-x-90mm-prototyp-dps-pcb-fr4-1471208380.html?gclid=EAIaIQobChMI3qvCmdnD2AIV6p3tCh0P6QdxEAYYASABEgKb7PD_BwE
-
+     - pracujeme na spojení mobilu/iPadu s bicími přes Bluetooth
   
   
                              
