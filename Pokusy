@@ -14,4 +14,4 @@ void loop() {
  int piezoValue_0 = analogRead(A0);
   Serial.println(piezoValue_0);
 }
-4) Nyní zkoušíme Arduino Bluetooth
+4) Přes HM-10 arudino BLE se nám podařilo přes Bluetooth ovládat zapojenou Ledku (viz. BLE LED.mp4) ---> ioS zařízení nejsou schopna nalézt Bluetooth signál HM-10
