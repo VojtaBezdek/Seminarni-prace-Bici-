@@ -15,3 +15,15 @@ void loop() {
   Serial.println(piezoValue_0);
 }
 4) Přes HM-10 arudino BLE se nám podařilo přes Bluetooth ovládat zapojenou Ledku (viz. BLE LED.mp4) ---> ioS zařízení nejsou schopna nalézt Bluetooth signál HM-10
+5) Propojili jsme sériový výstup s MIDI vstupem a podařilo se nám přehrát celé spektrum hlasitosí a not. Arduino kód: 
+  void Kick() {
+  for (int note = 0x1E; note < 0x5A; note ++) {
+    MIDI.sendNoteOn(note, 126, 1);
+    digitalWrite(LED_BUILTIN, HIGH);
+    delay(200);
+    digitalWrite(LED_BUILTIN, LOW);
+    MIDI.sendNoteOff(note, 0, 1);
+    delay(200);
+  }
+}
+pozn.: Využili jsme aplikace Hairless MIDI <--> Serial bridge a vmpk.
