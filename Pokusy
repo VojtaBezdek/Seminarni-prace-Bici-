@@ -27,4 +27,5 @@ void loop() {
   }
 }
 pozn.: Využili jsme aplikace Hairless MIDI <--> Serial bridge a vmpk. (MAC OSX)
-6) Podařilo se nám propojit piezo snímač a zvukový systém VirtualMIDISynth pomocí Hairless MIDI <--> Serial bridge odezva je bohužel půl sekundová. (Windows)
+6) Podařilo se nám propojit piezo snímač dvou činelů a zvukový systém VirtualMIDISynth pomocí Hairless MIDI <--> Serial bridge ---> odezva je bohužel půl sekundová. (Windows)
+7) Nejlepší výsledek jsme měli při propojení Garage Band a MIDI, prodleva byla nulová ---> chtělo by to vylepšit kód 
