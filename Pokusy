@@ -31,3 +31,4 @@ void loop() {
 7) Nejlepší výsledek jsme měli při propojení Garage Band a MIDI, prodleva byla nulová ---> chtělo by to vylepšit kód 
 8) Pokračujeme s MIDI propojením a upravili jsme kód, aby vyhovoval našim potřebám (nastavení 6 piezo snímáčů, vybírání příslišných zvuků) ---> prozatím to vypadá, že projekt bude dokončen tímto způsbem. 
   pozn.: chtěli by jsme ještě otestovat bluetooth arduino, ale to je prozatím vyprodané ---> výhoda propojení 
+(červený drát původního kabelu kopáku je živý pól na jacku a venkovní spoj na piezo)
